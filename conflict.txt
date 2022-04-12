@@ -2,4 +2,5 @@ Make a new conflict ....
 
     - Make conflict from Branch 1.
         + commit 1 (b1)
+        + commit 2 (b1)
     
