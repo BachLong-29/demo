@@ -1,4 +1,5 @@
 Make a new conflict ....
 
+    - Make a conflict from Branch 2..
     - Make conflict from Branch 1.
     
