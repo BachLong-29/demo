@@ -1,5 +1,7 @@
 Make a new conflict ....
 
     - Make a conflict from Branch 2..
+        + commit 1 (b2)
+        + commit 2 (b2)
     - Make conflict from Branch 1.
     
